@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aA013djoX9TAYBxiR1BCTRWdihJMc0ajMSE7iwPaQ4N4kDTCWbpVZvzpOmJENJtHJjuYNGabstW5E7agWAwHwQ==",
+  "dgSpecHash": "uS9BSx6AuPTvgZ7+cJq0BxgATpIADOINEOGDyfjMpQvF4b9rFTWlum7//96TUdJ6KbN1s8KX0i9UZZh7jfkX8A==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\dotnet\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+  "projectFilePath": "C:\\projetos\\dotnet_fundamentals\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
